@@ -38,18 +38,18 @@ footer{
     background-color: green;
 }
 html{
-    background-color: grey;
+    background-color: maroon;
 }
 a:hover, a:link{
-    color: red;
+    color: violet;
     text-decoration: none;
-}
-a:visited{
-    color: blue;
 }
 div#content{
     max-width: 480px
 }
 div#2ndcontent{
     max-width: 480px;
+}
+div#trap{
+    float: right;
 }

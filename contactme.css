@@ -2,5 +2,9 @@ div#contact{
     font-size: 12px;
 }
 html{
-    background-color: green;
+    background-color: teal;
+}
+a:hover, a:link{
+    color: violet;
+    text-decoration: none;
 }
