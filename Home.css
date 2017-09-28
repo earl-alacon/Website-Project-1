@@ -44,6 +44,9 @@ a:hover, a:link{
     color: red;
     text-decoration: none;
 }
+a:visited{
+    color: blue;
+}
 div#content{
     max-width: 480px
 }
